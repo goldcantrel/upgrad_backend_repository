@@ -9,7 +9,7 @@ spring:
     name: movieapp-api
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/moviedb
+    url: jdbc:postgresql://localhost:5432/moviedatabase
     username: upgrad123
     password: Golden1969!
 
